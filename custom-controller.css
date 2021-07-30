@@ -1,3 +1,6 @@
 .controller.ds4.white {
     background-image: url(https://braddotcoffee.github.io/Controller.svg);
 }
+.ds4.white .stick {
+    background-image: url(https://braddotcoffee.github.io/Sticks.svg);
+}
