@@ -10,3 +10,9 @@
 .ds4.white .button {
     background-image: url(https://braddotcoffee.github.io/Face.svg);
 }
+.ds4 .button {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    background: url(https://braddotcoffee.github.io/Face.svg);
+}
