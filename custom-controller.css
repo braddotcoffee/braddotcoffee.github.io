@@ -4,3 +4,6 @@
 .ds4.white .stick {
     background-image: url(https://braddotcoffee.github.io/Sticks.svg);
 }
+.ds4.white .face {
+    background-image: url(https://braddotcoffee.github.io/Dpad.svg);
+}
