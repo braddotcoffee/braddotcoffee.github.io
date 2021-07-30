@@ -7,3 +7,6 @@
 .ds4.white .face {
     background-image: url(https://braddotcoffee.github.io/Dpad.svg);
 }
+.ds4.white .button {
+    background-image: url(https://braddotcoffee.github.io/Face.svg);
+}
